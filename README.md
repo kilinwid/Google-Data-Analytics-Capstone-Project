@@ -144,3 +144,5 @@ For the third business task, which is: How can Cyclistic use digital media to in
 - Collaborate with software company to make tailored application for Cyclistic. This application must offer some alternatives to existing application, by making personalized map for annual members to know which area had they visit
 - Make sports event during summer season, which has prizes and also discount for annual memberships
 - Partner with local business, so annual membership has more value to have
+
+By Kilin Widjaja, 4 August 2024
